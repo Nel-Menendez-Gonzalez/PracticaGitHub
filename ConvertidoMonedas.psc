@@ -6,6 +6,7 @@ Algoritmo ConvertidoMonedas
 	opc = 0;
 	Euros = 1.15;
 	Dolares = 1.15;
+	//ESTO EN UN COMENTARIO PARA LA PRUEBA
 	Mientras opc <> 3
 		Escribir"Escoja una opción del menú porfavor";
 		Escribir"1.-Convertir Euros a Dolares";
